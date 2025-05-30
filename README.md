@@ -23,6 +23,10 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-2D3F6C?logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![joblib](https://img.shields.io/badge/-joblib-6BAED6?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 ### 🛠️ Favorite Tools I Use
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
