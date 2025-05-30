@@ -4,8 +4,7 @@
 
 ## 📌 A brief about me
 - 💼 Current Job: Student at Binus University and a Teacher at Sunrise Enrichment Center
-- 🌟 Currently Learning: Python
-- 🧠 Favorite Programming Language: HTML, CSS, JavaScript
+- 🧠 Favorite Programming Language: HTML, CSS, JavaScript, Python
 
 ### 💻 Programming Languages I use
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -16,9 +15,11 @@
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 
-### 🛠️ Favorite Tools
+### 🛠️ Favorite Tools I Use
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 ### 📫 Let’s connect!
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?logo=instagram&logoColor=white)](https://www.instagram.com/jeremyd_riyadi/)
