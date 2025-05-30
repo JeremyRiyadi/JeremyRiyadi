@@ -3,8 +3,8 @@
 "I am currently a fourth-semester Data Science student at BINUS University, with a strong passion for Web Development 💻 and a constant drive to explore and learn new things 🧠"
 
 ## 📌 A brief about me
-- 💼 Current Job: Student at Binus University and a Teacher at Sunrise Enrichment Center
-- 🧠 Favorite Programming Language: HTML, CSS, JavaScript, Python
+- 💼 Current Job : Student at Binus University and a Teacher at Sunrise Enrichment Center
+- 🧠 Favorite Programming Language : HTML, CSS, JavaScript, Python
 
 ### 💻 Programming Languages I use
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
