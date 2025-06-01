@@ -27,6 +27,7 @@ I am currently a fourth-semester Data Science student at BINUS University, with 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![joblib](https://img.shields.io/badge/-joblib-6BAED6?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![GridSearch](https://img.shields.io/badge/-GridSearchCV-0A9396?logo=scikit-learn&logoColor=white)
 
 ### 🛠️ Favorite Tools I Use
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
