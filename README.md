@@ -40,4 +40,4 @@ I am currently a fourth-semester Data Science student at BINUS University, with 
 
 ---
 
-🧠 Fun fact: I love solving logic puzzles, mathematics and automating tasks!
+🧠 Fun fact: I love solving logic puzzles, mathematics, working with other people and automating tasks!
