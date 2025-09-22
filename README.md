@@ -38,6 +38,7 @@ I am currently a fifth-semester Data Science student at BINUS University, with a
 ### 📫 Let’s connect!
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?logo=instagram&logoColor=white)](https://www.instagram.com/jeremyd_riyadi/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-riyadi-1b7b32272/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:jeremydjohar@gmail.com)
 
 ---
 
