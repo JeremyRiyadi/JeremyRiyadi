@@ -3,14 +3,16 @@
 I am currently a sixth-semester Data Science student at BINUS University, with a strong passion for Data 💻 and a continuous curiosity to learn and grow 🧠✨
 
 📌 A brief about me
-🎓 Student: Data Science at BINUS University
 
-💼 Data Scientist at PT. Karyaputera Suryagemilang
+- 🎓 Student: Data Science at BINUS University
 
-👨‍🏫 Teacher at Sunrise Enrichment Center
+- 💼 Data Scientist at PT. Karyaputera Suryagemilang
+
+- 👨‍🏫 Teacher at Sunrise Enrichment Center
+
+- 🧠 Favorite Programming Language : HTML, CSS, JavaScript, Python
 
 Driven by curiosity, I enjoy exploring new technologies, solving real-world problems with data, and sharing knowledge with others 🚀
-- 🧠 Favorite Programming Language : HTML, CSS, JavaScript, Python
 
 ### 💻 Programming Languages I use
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
