@@ -4,7 +4,9 @@ I am currently a sixth-semester Data Science student at BINUS University, with a
 
 📌 A brief about me
 🎓 Student: Data Science at BINUS University
+
 💼 Data Scientist at PT. Karyaputera Suryagemilang
+
 👨‍🏫 Teacher at Sunrise Enrichment Center
 
 Driven by curiosity, I enjoy exploring new technologies, solving real-world problems with data, and sharing knowledge with others 🚀
