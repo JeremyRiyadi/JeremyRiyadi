@@ -10,7 +10,7 @@ I am currently a sixth-semester Data Science student at BINUS University, with a
 
 - 👨‍🏫 Teacher at Sunrise Enrichment Center
 
-- 🧠 Favorite Programming Language : HTML, CSS, JavaScript, Python
+- 🧠 Favorite Programming Language : Python
 
 Driven by curiosity, I enjoy exploring new technologies, solving real-world problems with data, and sharing knowledge with others 🚀
 
