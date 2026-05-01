@@ -1,9 +1,9 @@
 # Hii there, I'm Jeremy 🙌
 
-I am currently a fifth-semester Data Science student at BINUS University, with a strong passion for Web Development 💻 and a constant drive to explore and learn new things 🧠
+I am currently a sixth-semester Data Science student at BINUS University, with a strong passion for Web Development 💻 and a constant drive to explore and learn new things 🧠
 
 ## 📌 A brief about me
-- 💼 Current Job : Student at Binus University and a Teacher at Sunrise Enrichment Center
+- 💼 Current Job : Data Scientist at PT. KPSG, Student at Binus University and a Teacher at Sunrise Enrichment Center
 - 🧠 Favorite Programming Language : HTML, CSS, JavaScript, Python
 
 ### 💻 Programming Languages I use
